@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/52994285/81627829-ff919880-9439-11ea-8dde-5fe389db2ef1.png)
+![저기어때](https://user-images.githubusercontent.com/73212897/96727589-2d6a0880-13ee-11eb-91ab-acf6e0cc9526.jpg)
 
 
 # 객실예약서비스
